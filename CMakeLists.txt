@@ -6,6 +6,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 set(SOURCES
         src/main.cpp
+        src/interval.h
+        src/camera.h
 )
 
 include_directories(${CMAKE_SOURCE_DIR}/src)
