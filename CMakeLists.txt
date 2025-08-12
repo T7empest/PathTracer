@@ -8,6 +8,7 @@ set(SOURCES
         src/main.cpp
         src/interval.h
         src/camera.h
+        src/material.h
 )
 
 include_directories(${CMAKE_SOURCE_DIR}/src)
